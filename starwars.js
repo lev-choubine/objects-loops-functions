@@ -1,4 +1,4 @@
-const starwars = { 
+const starWars = { 
     title: 'Starwars the Mandalorian',
     studio: 'Disney',
     channel: 'Starwars',
@@ -7,4 +7,4 @@ const starwars = {
     released: '1 day ago'
 }
 
-console.log(starwars.length);
+console.log(starWars.length);
